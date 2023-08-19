@@ -1,4 +1,4 @@
-# Fraud Detection for Company ABC
+# Credit Card Fraud Detection
 
 ## Overview
 This project aims to detect potentially fraudulent credit card transactions for Company ABC using a dataset containing transaction details and credit card information. We employ exploratory data analysis, feature engineering, and the Isolation Forest anomaly detection algorithm.
